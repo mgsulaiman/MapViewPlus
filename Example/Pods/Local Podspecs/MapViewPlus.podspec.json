@@ -12,11 +12,11 @@
     "okhanokbay": "okhanokbay5@gmail.com"
   },
   "source": {
-    "git": "https://github.com/okhanokbay/MapViewPlus.git",
+    "git": "https://github.com/mgsulaiman/MapViewPlus",
     "tag": "0.1.3"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "13.0"
   },
   "swift_versions": "5.0",
   "source_files": "MapViewPlus/Classes/**/*",
@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "Kingfisher": [
-      "~> 5.6.0"
+      "~> 7.12.0"
     ]
   },
   "swift_version": "5.0"
